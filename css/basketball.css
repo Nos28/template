@@ -1,0 +1,82 @@
+body{
+	background:#f6f6f6f;
+	font-family: 'Catamaran', sans-serif;
+}
+
+h1{
+	margin:0
+}
+
+h2{
+	margin:0;
+}
+
+h3{
+	letter-spacing:2px;
+}
+
+.myHead{
+	text-align:center;
+	margin: 0;
+}
+
+.blogHeader{
+	font-size:45px;
+	text-decoration: none;
+}
+
+.blogsubHeader{
+	font-size:25px;
+}
+
+.container{
+	max-width:600px;
+	margin: 0 auto;
+	padding-top:30px;
+	background:#fff;
+}
+
+.liner{
+	width:450px;
+	align:center;
+	opacity:.6
+}
+
+img{
+	width:100%;
+}
+
+p{
+	font-weight:100;
+}
+
+.button{
+	font-family:'Catamaran';
+	text-decoration:none;
+}
+
+.button:hover{
+	font-family:'Catamaran';
+	text-decoration:none;
+	border-bottom:1px solid black;
+	opacity:.7;
+	transition-duration:600;
+}
+
+.postLine{
+	margin-top:25px;
+	opacity:.5;
+}
+
+.headline{
+	font-size:20px;
+}
+
+.link{
+	text-decoration: none;
+	color:black;
+}
+
+footer{
+	text-align: center;
+}
